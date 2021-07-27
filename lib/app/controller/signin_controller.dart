@@ -53,6 +53,8 @@ validateSigninFields() {
 
 }
 
+//Creating user in Firebase
+
 registerUser(Usuario usuario){
 
   FirebaseAuth auth = FirebaseAuth.instance;
