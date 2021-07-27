@@ -1,0 +1,14 @@
+#Seção 17:WhatsApp
+    >> Criando interface de login.
+
+    >> Botão de 'cadastre-se' inserido e direcionado para SigninPage.
+
+    >> Scaffold inserido na página de Cadastro - falta finalizá-lo.
+
+    >> controladores do Cadastro (Validando Cadastro).
+
+    >> Cadastrar usuário.
+
+    >> Visual página principal do app.
+
+    >> Botão na lista q leve p pagina texto.

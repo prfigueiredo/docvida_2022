@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "90056066096",
+    "project_id": "login-docvida",
+    "storage_bucket": "login-docvida.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90056066096:android:f0d89c0a3c4ed2452299f5",
+        "android_client_info": {
+          "package_name": "br.com.docvida.login_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90056066096-t23oeb0chd6e7ofrm61pe3u9ipm9ugsr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.docvida.login_firebase",
+            "certificate_hash": "be927f2ec365b901ccd2084a80ed10a30f34629e"
+          }
+        },
+        {
+          "client_id": "90056066096-jdj1o7i4oa56ocnsbi6l30akrh0ludm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBipXaNrjuKc43wbqHtPzXIUJESJAjGRIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90056066096-jdj1o7i4oa56ocnsbi6l30akrh0ludm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
